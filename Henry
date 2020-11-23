@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        
+        <title> Invención Colombia </title>
+
+        <meta charset = "UTF-8">
+    
+        <link rel="stylesheet" href="css/style.css"/>
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        
+        <style>
+        
+        html{
+            scroll-behavior: smooth;
+        }
+        </style>
+    
+    </head>
+    
+    <body>
+
+        <div id="fuente personalizada"></div>
+
+        
+        <div id="container">
+            
+            <img class="imgmenu" src="img/logo3.png" alt="menu">
+            
+            <div class ="redes">
+                <div class = "instagram">
+                    <img class="instagram" src="img/insta.png" alt="instagram">
+                    
+                </div>
+
+                 <div class = "instagram">
+                    <img class="facebook" src="img/face.png" alt="facebook">
+                </div>
+
+                <div class = "instagram">
+                    <img class="twitter" src="img/twitter.png" alt="twitter">
+                </div>
+            </div>
+
+            <div class ="redes1">
+            </div>
+
+            <div class ="redes2">
+            </div>
+            
+            <nav id = "menus">
+                <ul>
+
+                    <li>
+
+                        <A HREF = "https://gruporodes.moodlecloud.com/login/index.php">INICIO</A></li>
+                        <li class = "barras"> | </li>
+                           
+                
+                    <li>
+                        <A HREF = "#lengua">STEAM </A></li>
+                        <li class = "barras"> | </li>
+                        
+                    <li>
+                        <A HREF = "#servicios">INVENCIÓN </A></li> 
+                        </font>
+                        <li class = "barras"> | </li>
+                        
+                    <li>
+                         <A HREF = "#mes">INTERACTIVIDAD </A></li>
+                        </font>
+                        <li class = "barras"> | </li>
+                       
+                    <li>
+                         <A HREF = "https://docs.google.com/forms/d/e/1FAIpQLSemU9ZiTdED_IWTaMiDnC9WHoMSmgQ-aIPCQI4bTcAI0njV4w/viewform?usp=sf_link">WEBINARS </A></li>
+                        </font>
+                        <li class = "barras"> | </li>
+
+            <li>
+                         <A HREF = "https://docs.google.com/forms/d/e/1FAIpQLSeCqXrNMaT5VLxV9BTrS66aTX1OZzSimK5l_9Jiiy_mLWqK6A/viewform?usp=sf_link"> CURSOS DE ROBÓTICA </A></li>
+                        </font>
+                        <li class = "barras"> | </li>
+                         
+            </nav>  
+        </div>
+<!--First section-->          
+            
+            
+
+            <div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article">
+
+            <div id = "video">
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/rWvdgQ3fZ90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </diV>
+            
+            <div id = "relativo">
+
+            <img class="foto1" src="img/logo3.png" alt="imagen 1">
+
+            </div>
+     
+                
+            
+
+            </article>
+            
+            </section>
+
+
+<!--Second section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="content1">
+
+            
+            <img class="car" src="img/collage.jpeg" alt="car">
+
+            <article class="article1">
+
+            <div id = "relativo1">
+
+              
+
+                <div id = "texto1">
+
+                <h1>STEAM EN LA ACTUAL ERA DIGITAL</h1>
+
+                <p>Teniendo en cuenta que el pensamiento computacional y las habilidades informáticas son vitales para las actuales y futuras generaciones de la era digital, se han implementado diversas técnicas de aprendizaje basados en el modelo STEAM en donde se conjugan diversas áreas del conocimiento en pro del relacionamiento de contenido tecnológico.</p>
+                
+                 
+                  
+                </div>
+
+            </article>
+            
+            </div>
+                       
+
+            </section>
+
+
+
+            </article>
+
+
+
+
+<!--Third section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="barra">
+
+            </section>    
+
+            <section id="content32">
+
+            <A NAME = "comunidad-1"></A> 
+
+            <img class="car2" src="img/morena.jpeg" alt="car2">
+
+            </div>
+
+            <div id = "texto2">
+
+            <h1>COLOMBIA PIONERO EN TECNOLOGÍA</h2>
+
+            <p><B>Invención Colombia</B> ha desarrollado uno de los mejores currículos orientados al aprendizaje de las diferentes conceptos que involucran la innovación tecnológica y que trabajan transversalmente en áreas tales como la Ciencia, Tecnología, ingeniería, Artes y Matemáticas como el pilar fundamental de la creación del futuro científico y tecnológico de nuestro país y del mundo entero.</p>
+
+            <A NAME = "comunidad"></A>      
+             <a href = '#top'>Subir</a></p>
+
+            </div>
+    
+
+   
+            </section>
+
+<!--Fourth section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="barra2">
+
+            <!--<img class="comun" src="img/book.png" alt="comun">-->
+
+            </section>   
+
+            <section id="content1">
+            
+            
+
+            <img class="imgmetas" src="img/impresora3d.jpg" alt="metas">
+
+            <article class="article1">
+
+            <div id = "relativo1">
+
+            
+
+                <h1>TRANSFORMACIÓN DIGITAL</h1>
+
+                <p>Relacionemos el lenguaje de las maquinas como la nueva forma de comunicarnos y de desarrollar próximas ideas creativas y de gran impacto social ya que en gran porcentaje de instituciones educativas este tema no se involucra como parte de los currículos, es por tal motivo que te invitamos a ser parte del cambio.</p>
+            
+
+            
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+<!--Fifth section-->
+
+      <div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article">
+
+            <div id = "relativo4">
+
+            <img class="imglogo1" src="img/logo1.png" alt="living">
+
+            <A NAME = "lengua"></A>   
+
+            </div>
+     
+     
+<!--<A NAME = "Quienes"></A>-->             
+<!--<a href = '#top'>subir</a></p> -->
+
+            </article>
+            
+            </section>
+
+<!--sixth section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="content1">
+            
+            <A NAME = "lengua"></A> 
+      
+            <img class="happy" src="img/car3.jpg" alt="happy">
+
+            </section>
+            
+            <article class="article1">
+
+            <div id = "relativo6">
+
+            
+
+                <h1>PLATAFORMA EDUCATIVA Y EVALUATIVA DE ROBÓTICA</h1>
+
+                <ul>
+
+                <li>El equipo docente selecciona las temáticas de acurdo a su periodo y organiza su año escolar</li>
+
+                <li>Los estudiantes encuentran tres secciones de cada tema e inician su inmersión en el mundo STEAM</li>
+
+                <li>Correlación de Estándares Nacionales de Ciencias Naturales, Matemáticas, Educación Artística, Informática y Tecnología</li>
+
+                <li>Correlación de DBA- Derechos Básicos de Aprendizaje y Proyecto IVC-Invención Colombia</li>
+
+                <li>Currículo Sugerido MEN e Internacional IMPLEMENTACIÓN DE LABORATORIO</li>
+                             <a href = '#top'>Subir</a></p>
+
+  
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+
+<!--Seventh section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article2">
+
+            <img class="niños" src="img/car4.jpg" alt="niños">
+
+            <div id = "relativo8">
+
+           <h1>COMPONENTES DEL LABORATORIO</h1>
+
+            <ul>
+                <li>Módulo identificador de materiales conductores y no conductores.(Modulo de pruebas)</li>
+
+                <li>Impresora 3D (Tiempos de producción dependiendo del diseño)</li>
+
+                <li>Material para la impresión.</li>
+
+                <li>Módulo electrónico de control.</li>
+
+                <li>Programador microchip.</li>
+
+
+            </ul>
+    
+            </div>
+    
+            </article>
+
+
+            
+            </section>
+
+<!--eighth section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content1">
+            
+            
+            <img class="adultos" src="img/car5.jpg" alt="adultos">
+            
+            <article class="article3">
+
+            <div id = "relativo9">
+
+            
+
+                <h1>ESTRATEGIAS EDUCATIVAS</h1>
+
+
+                <ul>
+                <li>Aplicación adecuada hacia el desarrollo temático de Innovación y tecnología.</li>
+
+                <li>Emprendimiento y construcción de ideas.</li>
+
+                <li>Trabajo en equipo.</li>
+
+                <li>Desarrollo desde la primera etapa de investigación del niño y la niña.</li>
+
+                <li>Seguimiento de instrucciones.</li>
+
+                <ul>
+
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+<!--nineth section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article2">
+
+            <img class="aprende1" src="img/gif.gif" alt="aprende1">
+
+            <div id = "relativo10">
+
+           <h1>Invención Colombia</h1>
+
+                <p>En invención Colombia trabajamos en la elaboración de currículos especializados para el aprendizaje del lenguaje de las maquinas como la nueva forma de comunicarnos y de desarrollar próximas ideas creativas y de gran impacto social científico y tecnológico.</p>
+    
+            </div>
+ 
+     
+
+            </article>
+            
+            </section>
+
+<!--nineth section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content11">
+                
+            <article class="article5">
+            
+            <img class="logo3" src="img/logo3.png" alt="logo">
+
+            <div id = "relativo11">
+    
+            </div>
+
+            </article>
+            
+            </section>
+<!--First section-->          
+            
+            
+
+            <div class = "clearfix"></div>
+
+            <section id="content">                
+
+            <article class="article">
+
+            <div id = "video">
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3UwwBypu_L8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </diV>
+
+            <div id = "relativo">
+
+            <img class="foto1" src="img/logo3.png" alt="imagen 1">
+
+            </div>
+
+            
+
+            </article>
+            
+            </section>
+
+
+<!--Second section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="content1">
+
+            
+            <img class="car" src="img/brain.png" alt="car">
+
+            <article class="article1">
+
+            <div id = "relativo1">
+
+              <A NAME = "servicios"></A> 
+
+                <div id = "texto1">
+
+                <h1>PENSAMIENTO COMPUTACIONAL</h1>
+
+                <p>Las habilidades desarrolladas y adquiridas a través del uso de dispositivos tecnológicos son pieza fundamental para entender los lenguajes del mañana. Poe medio del aprendizaje de lenguajes de programación podemos transformar el futuro de las futuras generaciones digitales. </p>
+                             <a href = '#top'>Subir</a></p>
+                 
+                </div>
+
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+<!--Third section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="barra">
+
+            </section>    
+
+            <section id="content32">
+
+            <img class="kids" src="img/kids.jpg" alt="kids">
+
+            </div>
+
+            <div id = "texto2">
+
+            <h1>PLATAFORMAS INTERACTIVAS</h2>
+
+            <p>Las habilidades que se desarrollan en la actual éra digital, se orientan al aprendizaje continuo de nuevas herramientas interactivas. En invención Colombia desarrollamos la pasión de nuestros estudiantes por medio de la utilización de plataformas que cumplan con las necesidades especificas de los proyectos STEAM.</p>
+                        
+            </div>
+    
+
+   
+            </section>
+
+<!--Fourth section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="barra2">
+
+            <!--<img class="comun" src="img/book.png" alt="comun">-->
+
+            </section>   
+
+            <section id="content1">
+            
+            
+
+            <img class="imgmetas" src="img/machine.jpg" alt="metas">
+
+            <article class="article1">
+
+            <div id = "relativo1">
+
+            
+
+                <h1>TRANSFORMACIÓN DIGITAL</h1>
+
+                <p>Relacionemos el lenguaje de las maquinas como la nueva forma de comunicarnos y de desarrollar próximas ideas creativas y de gran impacto social ya que en gran porcentaje de instituciones educativas este tema no se involucra como parte de los currículos, es por tal motivo que te invitamos a ser parte del cambio.</p>
+                      
+          
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+<!--Fifth section-->
+
+      <div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article">
+
+            <div id = "relativo4">
+
+            <img class="creamos" src="img/creamos.png" alt="living">
+
+            </div>
+     
+     
+<!--<A NAME = "Quienes"></A>-->             
+<!--<a href = '#top'>subir</a></p> -->
+
+            </article>
+            
+            </section>
+
+<!--sixth section-->
+
+            <div class = "clearfix"></div>
+
+            <section id="content1">
+            
+            
+      
+            <img class="happy" src="img/printer4.jpg" alt="happy">
+
+            </section>
+            
+            <article class="article1">
+
+            <div id = "relativo6">
+
+            
+
+                <h1>IMPRESORAS 3D</h1>
+
+                <p>Las impresoras 3D permiten la acción de prototipado rápida en la cual cada proyecto de los semilleros de investigación de Invención Colombia se puede aplicar bajo el acompañamiento del equipo STEAM de la institución previamente capacitado. </P>
+                <p>Las impresoras 3D de Invención Colombia poseen una gran ventaja y es que son producto y desarrollo colombiano, lo cual permite el debido acompañamiento y capacitación en los más de 8 clases de materiales que se pueden usar para imprimir los prototipos de los proyectos STEAM que se estimen convenientes.</p>
+                
+                       
+  
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+
+<!--Seventh section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content">
+                
+            <article class="article2">
+
+            <img class="niños" src="img/videos.jpg" alt="niños">
+
+            <div id = "relativo8">
+
+           <h1>VIDEOJUEGOS</h1>
+
+
+                <P>Trabajamos con las mejores plataformas para la enseñanza de lenguajes de programación y pensamiento computacional. Scratch es un lenguaje de programación y comunidad en linea donde puedes crear tus propias historias interactivas, videojuegos y animaciones. </P>
+
+                           
+
+            </div>
+    
+            </article>
+
+            
+            </section>
+
+<!--eighth section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content1">
+
+            
+            
+            <img class="mit" src="img/app.jpg" alt="MIT">
+            
+            <article class="article3">
+
+            <div id = "relativo9">
+
+            
+            <A NAME = "mes"></A>  
+
+            <h1>CREACIÓN DE APLICACIONES</h1>
+
+            <p>Los diferentes entornos de programación son muy avanzados y complejos de desarrollar. Sin embargo, el MIT APP INVENTOR es un gestor de contenido de aplicaciones web orientado al publico que empieza a trabajar proyectos desde cero. </p>
+    
+                         <a href = '#top'>Subir</a></p>
+
+            </article>
+            
+            </div>
+
+            </section>
+
+            </article>
+
+<!--nineth section-->
+
+<div class = "clearfix"></div>    
+
+            <section id="content">
+                
+            <article class="article2">
+
+            <img class="aprende1" src="img/web.jpg" alt="aprende1">
+
+            <div id = "relativo10">
+
+            <h1>DISEÑO WEB</h1>
+
+            <p>A través del uso de laboratorios virtuales, se logran desarrollar diferentes proyectos interactivo, donde nuestros estudiantes se esmeran por conocer de primera mano sobre la elaboración de páginas web y contenido virtual. </p>
+    
+   
+            </div>
+
+
+
+            </article>
+            
+            </section>
+
+            <!--nineth section-->
+
+<div class = "clearfix"></div>
+
+            <section id="content11">
+                
+            <article class="article5">
+            
+            <img class="logo3" src="img/logo3.png" alt="logo">
+
+            <div id = "relativo11">
+    
+            </div>
+
+            </article>
+            
+            </section>
+
+            
+
+
+
+</body>
